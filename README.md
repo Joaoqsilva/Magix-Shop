@@ -6,16 +6,16 @@ um design com poucas cores e bem simples com as cores laranja e preto claro.
 CODIGO: durante o desenvolvimento do website eu infelizmente n prezei muito por uma boa organizaçao ou cometarios nas linhas mas futuramente pretendo arrumar tudo da melhor forma
 pra deixar o codigo bem apresentaval 
 
-*FUNCIONALIDADES: Nesse projeto nao existem muitas funcionalidades mas existe algumas como
-  *sistema de PESQUISA por COR, TAMANANHO E INPUT(NOME).
-  *Responsibilidade do header.
+**FUNCIONALIDADES**: Nesse projeto nao existem muitas funcionalidades mas existe algumas como:
+  **sistema de PESQUISA por COR, TAMANANHO E INPUT(NOME).**
+  **Responsibilidade do header.**
 
-  **FUTURAS FUNCIONALIDADES**  
-    *RESPOSIVIDADE
-    *SISTEMA DE CARRINHO,CADASTRO E FAVORITAR PRODUTO
-    *CODIGO COMENTADO E MAIS LIMPO
-    *NOVAS PAGINAS DE PRODUTOS
-    *PAGINA DE VENDA DO PRODUTO
+  ***FUTURAS FUNCIONALIDADES***
+    **RESPOSIVIDADE**
+    **SISTEMA DE CARRINHO,CADASTRO E FAVORITAR PRODUTO**
+    ***CODIGO COMENTADO E MAIS LIMPO**
+    **NOVAS PAGINAS DE PRODUTOS**
+    **PAGINA DE VENDA DO PRODUTO**
 
 
   
